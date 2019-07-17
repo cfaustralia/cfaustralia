@@ -1,0 +1,4 @@
+baseURL = "http://childfreeaustralia.com/"
+languageCode = "en-us"
+title = "Childfree Australia"
+theme = "ananke"
